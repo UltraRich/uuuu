@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+14:20:37	56/56	---M--	200	added ('OK')	text/plain	etag:%2238-5dc386bbbdb0b%22	http://project5432792.tilda.ws/robots.txt		(from )
+14:20:38	73481/73481	---M-Z	200	added ('OK')	text/html	etag:%2211f09-5dc38267e517d-gzip%22	http://project5432792.tilda.ws/	C:/Users/Hashir/OneDrive/Desktop/ultra%20rich/project5432792.tilda.ws/index.html	(from )
+14:20:39	13073/13073	---MC-	200	added ('OK')	image/png	date:Sat,%2009%20Apr%202022%2013:20:37%20GMT	https://static.tildacdn.info/tild6664-3236-4131-a530-366430626664/-/resize/504x/Screenshot_2022-04-0.png	C:/Users/Hashir/OneDrive/Desktop/ultra%20rich/static.tildacdn.info/tild6664-3236-4131-a530-366430626664/-/resize/504x/Screenshot_2022-04-0.png	(from http://project5432792.tilda.ws/)
